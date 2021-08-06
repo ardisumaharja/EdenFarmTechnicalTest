@@ -1,0 +1,5 @@
+export const SET_LOADING = "SET_LOADING"
+export const GET_POKEMONS = "GET_POKEMONS"
+export const GET_DETIL_POKEMON = "GET_DETIL_POKEMON"
+export const GET_ITEMS = "GET_ITEMS"
+export const GET_DETAIL_ITEM = "GET_DETAIL_ITEM"
